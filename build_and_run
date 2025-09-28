@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ -std=c++23 -I./include src/main.cpp -o test && ./test 
