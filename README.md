@@ -1,8 +1,8 @@
 # Arena Implementations
 Run ./build_and_run to compile and run the example
 
-##Example Usage
-
+## Example Usage
+ 
 ```c++
 #include "arena.hpp"
 #include <iostream>
